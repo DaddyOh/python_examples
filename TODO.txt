@@ -1,0 +1,31 @@
+TODO https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
+TODO exceptions https://docs.python.org/3.6/library/exceptions.html https://www.learnpython.dev/03-intermediate-python/40-exceptions/90-custom-exceptions/
+TODO more slices
+TODO sqlite
+TODO files include in memory files https://www.learnpython.dev/02-introduction-to-python/175-running-code/60-working-with-files/
+TODO import and libraries
+TODO packages
+TODO context managers (see files)
+TODO json https://www.journaldev.com/16016/python-parse-json-dumps-loads
+TODO free public apis https://github.com/public-apis/public-apis
+TODO OOP and static methods and static vars
+TODO DataClasses
+TODO zip function
+TODO more lists
+TODO classes and itterators
+TODO path examples from dirpeople_python
+
+# SQLITE details
+links tro documentation
+python query examples
+    insert, delete, update, select, DDL
+    Bulk inserts
+SQL syntaxc examples
+    date math
+    limit querie output
+    store blobs in db
+    store files in db (blob)
+    store binary in database
+    defaults
+    constraints
+

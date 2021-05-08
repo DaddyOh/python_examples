@@ -1,0 +1,10 @@
+# comment start with #
+# blank lines allowed but removed
+
+
+  # what about lines that start with spaces
+This is a uncommented line
+ this line starts with a space
+    this line start with a tab
+    # this comment starts with a tab
+This line does not have a newline at the end

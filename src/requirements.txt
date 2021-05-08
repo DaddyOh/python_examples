@@ -1,0 +1,4 @@
+pytest
+typer
+# for color tracebacks
+rich
