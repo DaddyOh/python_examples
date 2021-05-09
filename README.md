@@ -7,6 +7,7 @@ example.
 
 Example programs are tested on Mac OSX and no other OS.
 
+Some of the examples may not be useful or even working.
 
 Reference Material
 https://www.learnpython.dev/02-introduction-to-python/
