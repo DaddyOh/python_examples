@@ -19,6 +19,8 @@ list
 dictionary
 obj - another class
 
+There are many other possible special methods. This shows just a few that seem most useful
+
 """
 
 
